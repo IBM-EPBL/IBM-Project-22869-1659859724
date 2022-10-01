@@ -39,7 +39,6 @@ void loop() {
   // convert the time into a distance
   inches = microsecondsToInches(duration);
   cm = microsecondsToCentimeters(duration);
-
   //Serial.print(inches);
   //Serial.print("in, ");
   //Serial.print(cm);
